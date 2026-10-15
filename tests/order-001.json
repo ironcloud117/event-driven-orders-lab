@@ -1,0 +1,9 @@
+{
+  "orderId": "ORD-001",
+  "customerId": "CUST-42",
+  "items": [
+    { "sku": "SKU-RED-MUG", "qty": 2, "unitPrice": 12.5 }
+  ],
+  "total": 25.0,
+  "currency": "EUR"
+}
